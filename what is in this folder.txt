@@ -1,0 +1,31 @@
+
+--buttontogle 
+
+This is a simple sketch that implements a simple FSM
+to implement a toggle type buton
+
+What it does  
+every time the button is pushed an external led is toggled
+
+--SH1106SimpleDemo
+
+This sketch shows diferent graphical demos
+on SH1106 oled display. it can be easily adapted for SSD1306 worth seeing
+Daniel Eichhorn made many great contibutions
+at https://blog-dev.squix.org/
+
+See also
+http://oleddisplay.squix.ch/
+https://blog.squix.org/2015/05/esp8266-nodemcu-how-to-create-xbm.html
+
+--OledSandbox
+this is a test for my mainline project (timer pampa)
+
+--esp8266-oled-ssd1306-master.zip
+
+Is the used oled library (it must be installed)
+
+
+
+
+

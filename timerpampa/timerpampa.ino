@@ -105,7 +105,7 @@ int Read_PIR_Input(void)
         
         lectura=!digitalRead(PIR_INPUT);            // Read input (invert since active low)
         
-        // debug_message("\nstate:%d",estado);
+        //debug_message("\nstate:%d",estado);
 
         if (last==RISING && last!=lectura)  // if Rising(Leading) edge on input start timer
         {
