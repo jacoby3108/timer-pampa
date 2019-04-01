@@ -25,6 +25,8 @@ this is a test for my mainline project (timer pampa)
 
 Is the used oled library (it must be installed)
 
+Sun Icons Backup ( iconos originales y procesados ) 
+
 
 
 
